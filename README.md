@@ -190,9 +190,6 @@ jepa-materials/
 
 ### Publication Roadmap
 - **Q1 2025**: Workshop paper (NeurIPS/ICML ML4Science)
-- **Q2 2025**: Full conference paper (NeurIPS/ICML/ICLR)
-- **Q4 2025**: Journal submission (Nature Materials / Science Advances)
-
 ---
 
 ## 💡 Why JEPA for Materials?
@@ -218,10 +215,10 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @software{jepa_materials_2025,
-  author = {Your Name},
-  title = {JEPA for Materials Discovery},
+  author = {Mahdi Rashidiyan},
+  title = {SHIMI},
   year = {2025},
-  url = {https://github.com/yourusername/jepa-materials}
+  url = {https://github.com/Mahdi-Rashidiyan/Shimi}
 }
 ```
 
