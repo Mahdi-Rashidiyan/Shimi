@@ -260,15 +260,10 @@ Please open an issue or submit a PR.
 
 ## 📧 Contact
 
-**Project Lead**: [Your Name]  
-**Email**: your.email@university.edu  
-**LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**Project Lead**: Mahdi Rashidian
+**Email**: mahdirashidiyan32@gmail.com 
+**LinkedIn**: (https://linkedin.com/in/Mahdi-Rashidian)
 
-**Advisors**:
-- Prof. [AI Advisor Name] - Machine Learning
-- Prof. [Chem Advisor Name] - Computational Chemistry
-
----
 
 ## 📝 License
 
